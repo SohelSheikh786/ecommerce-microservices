@@ -1,0 +1,6 @@
+/.metadata/
+user-service/.gitattributes
+user-service/.gitignore
+user-service/.mvn/
+user-service/mvnw
+user-service/mvnw.cmd
