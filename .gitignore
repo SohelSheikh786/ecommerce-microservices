@@ -16,4 +16,8 @@ Order-Service/.gitattributes
 Order-Service/.mvn/
 Order-Service/mvnw
 Order-Service/mvnw.cmd
+Payment-Service/.gitattributes
+Payment-Service/.mvn/
+Payment-Service/mvnw
+Payment-Service/mvnw.cmd
 
