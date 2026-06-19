@@ -12,5 +12,8 @@ Cart-Service/.gitattributes
 Cart-Service/.mvn/
 Cart-Service/mvnw
 Cart-Service/mvnw.cmd
-
+Order-Service/.gitattributes
+Order-Service/.mvn/
+Order-Service/mvnw
+Order-Service/mvnw.cmd
 
