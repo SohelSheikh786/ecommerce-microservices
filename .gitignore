@@ -24,4 +24,8 @@ Notification-Service/.gitattributes
 Notification-Service/.mvn/
 Notification-Service/mvnw
 Notification-Service/mvnw.cmd
+API-Gateway/.gitattributes
+API-Gateway/.mvn/
+API-Gateway/mvnw
+API-Gateway/mvnw.cmd
 
