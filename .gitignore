@@ -4,3 +4,8 @@ user-service/.gitignore
 user-service/.mvn/
 user-service/mvnw
 user-service/mvnw.cmd
+Product-Service/.gitattributes
+Product-Service/.mvn/
+Product-Service/mvnw
+Product-Service/mvnw.cmd
+
