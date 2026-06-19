@@ -28,4 +28,9 @@ API-Gateway/.gitattributes
 API-Gateway/.mvn/
 API-Gateway/mvnw
 API-Gateway/mvnw.cmd
+Eureka-Server/.gitattributes
+Eureka-Server/.mvn/
+Eureka-Server/mvnw
+Eureka-Server/mvnw.cmd
+
 
