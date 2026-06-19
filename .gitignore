@@ -8,4 +8,9 @@ Product-Service/.gitattributes
 Product-Service/.mvn/
 Product-Service/mvnw
 Product-Service/mvnw.cmd
+Cart-Service/.gitattributes
+Cart-Service/.mvn/
+Cart-Service/mvnw
+Cart-Service/mvnw.cmd
+
 
