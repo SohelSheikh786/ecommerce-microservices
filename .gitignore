@@ -20,4 +20,8 @@ Payment-Service/.gitattributes
 Payment-Service/.mvn/
 Payment-Service/mvnw
 Payment-Service/mvnw.cmd
+Notification-Service/.gitattributes
+Notification-Service/.mvn/
+Notification-Service/mvnw
+Notification-Service/mvnw.cmd
 
