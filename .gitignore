@@ -32,5 +32,12 @@ Eureka-Server/.gitattributes
 Eureka-Server/.mvn/
 Eureka-Server/mvnw
 Eureka-Server/mvnw.cmd
+Config-Server/.gitattributes
+Config-Server/.mvn/
+Config-Server/mvnw
+Config-Server/mvnw.cmd
+id_rsa_sohel
+id_rsa_sohel.pub
+
 
 
